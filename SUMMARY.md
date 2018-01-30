@@ -28,6 +28,7 @@
 * [技术教程](chapter3-tutorial/README.md)
     * [通用编程](chapter3-tutorial/通用编程.md)
     * [数据分析](chapter3-tutorial/数据分析.md)
+    * [可视化](chapter3-tutorial/可视化.md)
     * [AI系列](chapter3-tutorial/AI系列.md)
     * [文本分析](chapter3-tutorial/文本分析.md)
     * [网页爬虫](chapter3-tutorial/网页爬虫.md)
