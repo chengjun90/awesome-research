@@ -23,7 +23,7 @@
     * [Web](chapter2-programming/Web/README.md)
         * [社区与生态](chapter2-programming/Web/社区与生态.md)
         * [工具](chapter2-programming/Web/Web.md)
-    * [其他开发工具](chapter2-programming/其他编程.md)
+    * [其他开发工具](chapter2-programming/other/其他编程.md)
 
 * [技术教程](chapter3-tutorial/README.md)
     * [通用编程](chapter3-tutorial/通用编程.md)
