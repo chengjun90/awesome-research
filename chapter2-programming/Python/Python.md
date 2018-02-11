@@ -1,42 +1,43 @@
 # 版本与包管理
 
+- pip  
+官方的包管理器
+
 - Conda
-- Pipenv
 
-# 网络
-- requests
+- [pipenv](https://github.com/pypa/pipenv)  
+Python官方机构推荐的Python虚拟环境工具
 
+# 网络/爬虫
+- requests  
 http请求库
 
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
-
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)  
 提取网页信息
 
-- lxml
-
+- lxml  
 快速定位网页信息
 
-- chardet
-
+- chardet  
 测试网页编码，和文件编码
 
-[Scrapy](https://scrapy.org)
+- [Scrapy](https://scrapy.org)
+
+- [requestium](https://github.com/tryolabs/requestium)  
+> Integration layer between Requests and Selenium for automation of web actions.  
+可以一试
 
 # 自然语言处理
-- FlashText
-
+- FlashText  
 在处理大规模文本时性能优于re库
 
-- [Jieaba](https://github.com/fxsjy/jieba)
-
+- [Jieaba](https://github.com/fxsjy/jieba)  
 最好用的中文分词库。
 
-- NLTK
-
+- NLTK  
 提供了文本标记、分词、构建语料树等功能，用以揭示句中或句间的依赖关系。
 
-- [Gensim](https://radimrehurek.com/gensim/index.html)
-
+- [Gensim](https://radimrehurek.com/gensim/index.html)  
 进行主题建模、文档索引和文本相似度分析。官网教程[点击这里](https://radimrehurek.com/gensim/tutorial.html)。
 
 - [Synonyms](https://github.com/huyingxi/Synonyms)，开源的中文近义词工具包
@@ -118,8 +119,7 @@ Python 中一个强大的统计分析包，包含了回归分析、时间序列�
 
 #机器学习/深度学习
 
-- SciKit-Learn
-
+- SciKit-Learn  
 提供了准确、统一的接口，可以方便地使用各种机器学习算法
 
 - Theano 
@@ -150,4 +150,5 @@ Python 中一个强大的统计分析包，包含了回归分析、时间序列�
 - Numba
 
 # 其他
-- APScheduler，是python下的任务调度框架，全程为Advanced Python Scheduler。可以设置定时的任务，如定时下载文件等。
+- APScheduler  
+Python下的任务调度框架，全程为Advanced Python Scheduler。可以设置定时的任务，如定时下载文件等。
