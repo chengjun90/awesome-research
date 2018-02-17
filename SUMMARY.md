@@ -39,9 +39,4 @@
     * [教材](chapter4-research/教材.md)
     * [学术](chapter4-research/学术.md)
 
-* [小书房](chapter5-book/README.md)
-    * [book-a](chapter5-book/book-a.md)
-    * [book-b](chapter5-book/book-b.md)
-    * [book-c](chapter5-book/book-c.md)
-
 * [后记](POSTSCRIPT.md)
