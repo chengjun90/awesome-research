@@ -6,8 +6,6 @@
     * [基础类](chapter1-tool/基础类.md)
     * [办公类](chapter1-tool/办公类.md)
     * [开发类](chapter1-tool/开发类.md)
-    * [Stata](chapter1-tool/Stata.md)
-    * [TeX](chapter1-tool/TeX.md)
     * [网络资源](chapter1-tool/网络资源.md)
 
 * [开发工具](chapter2-programming/README.md)
@@ -24,6 +22,7 @@
         * [社区与生态](chapter2-programming/Web/社区与生态.md)
         * [工具](chapter2-programming/Web/Web.md)
     * [其他开发工具](chapter2-programming/other/其他编程.md)
+    * [会议](chapter2-programming/other/会议.md)
 
 * [技术教程](chapter3-tutorial/README.md)
     * [通用编程](chapter3-tutorial/通用编程.md)
@@ -35,7 +34,9 @@
     * [展示与交流](chapter3-tutorial/展示与交流.md)
     * [其他工具](chapter3-tutorial/其他工具.md)
 
-* [教材与学术](chapter4-research/README.md)
+* [阅读与研究](chapter4-research/README.md)
+    * [出版社](chapter4-research/出版社.md)
+    * [图书资源](chapter4-research/图书资源.md)
     * [教材](chapter4-research/教材.md)
     * [学术](chapter4-research/学术.md)
 
