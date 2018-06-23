@@ -37,6 +37,7 @@
 * [阅读与研究](chapter4-research/README.md)
     * [出版社](chapter4-research/出版社.md)
     * [图书资源](chapter4-research/图书资源.md)
+    * [社区资源](chapter4-research/社区资源.md)
     * [教材](chapter4-research/教材.md)
     * [学术](chapter4-research/学术.md)
 
