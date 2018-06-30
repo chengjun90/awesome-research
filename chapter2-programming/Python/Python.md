@@ -18,7 +18,7 @@ http请求库
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)  
 提取网页信息
 
-- Requests-HTML,http://html.python-requests.org，解析html，提取相应的元素
+- [requests-html](http://html.python-requests.org)，解析html，提取相应的元素
 
 - lxml  
 快速定位网页信息
@@ -154,12 +154,15 @@ Python 中一个强大的统计分析包，包含了回归分析、时间序列�
 - Theano 
 
 # 交互式分析/展示
-- [IPython](http://ipython.org)，可以使用jupyter-qtconsole
+- [spyder](https://github.com/spyder-ide/spyder)，IDE，适合数据科学从业者使用
+
+- [IPython](http://ipython.org)，可以使用
+
+- [qtconsole](https://github.com/jupyter/qtconsole),jupyter-qtconsole
 
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab)
 
 - [dash](https://plot.ly/dash/)
-
 
 # 性能提升
 
@@ -170,3 +173,4 @@ Python 中一个强大的统计分析包，包含了回归分析、时间序列�
 # 其他
 - APScheduler  
 任务调度框架，可以设置定时的任务，如定时下载文件等。
+
