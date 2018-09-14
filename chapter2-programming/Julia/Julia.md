@@ -2,23 +2,21 @@
 
 Awesome Julia内容包括：数据处理、数据可视化、文本处理等。该资源列表会持续更新。
 
-等到Julia 1.0时更新。
-
 # 数据读写
 
 [CSV](https://github.com/JuliaData/CSV.jl)
 
 # 数据结构
-[DataFrames](https://github.com/JuliaData/DataFrames.jl)
+- [DataFrames](https://github.com/JuliaData/DataFrames.jl)
 Julia的数据科学基础包，支持DataFrames类型数据。
 
-[JuliaDB.](https://github.com/JuliaComputing/JuliaDB.jl)JuliaComputing开发的支持大规模的表格型、多维度和序列化的数据。通用，并行设计。
+- [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl)JuliaComputing开发的支持大规模的表格型、多维度和序列化的数据。通用，并行设计。
 
-Query
+- [Queryverse](https://github.com/queryverse)，Julia版的tidyverse。
 
-TimeSeries 
+- [TimeSeries](https://github.com/JuliaStats/TimeSeries.jl) 
 
-Temporal：借鉴R中的xts和Python中的pandas
+- [Temporal](https://github.com/dysonance/Temporal.jl)：借鉴R中的xts和Python中的pandas
 
 # 统计基础
 
@@ -71,8 +69,6 @@ PyCall
 # 数据集
 
 RDatasets
-
-
 
 # Web开发
 
