@@ -26,7 +26,9 @@ http请求库
 - chardet  
 测试网页编码，和文件编码
 
-- [requestium](https://github.com/tryolabs/requestium)  
+- [requestium](https://github.com/tryolabs/requestium)
+
+- [pyppeteer](https://github.com/miyakogi/pyppeteer)，Headless chrome/chromium automation library
 
 - [Scrapy](https://scrapy.org)，爬虫框架
 

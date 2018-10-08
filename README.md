@@ -1,6 +1,6 @@
 # Awesome Research Tools🛠
 
-[**Read**📖](https://cheng-jun.gitbooks.io/awesome-research-tools/content/)
+[**Read**📖](https://legacy.gitbook.com/book/cheng-jun/awesome-research-tools/details)
 
 这里列示实研究证小青年的研究工具集合，日常研究和关注经济、金融与会计等领域的问题，主要采用计量经济学和其他数据分析手法撰写学术论文和研究报告。
 

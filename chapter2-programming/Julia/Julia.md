@@ -20,29 +20,29 @@ Julia的数据科学基础包，支持DataFrames类型数据。
 
 # 统计基础
 
-[StatsBase](https://github.com/JuliaStats/StatsBase.jl)
+- [StatsBase](https://github.com/JuliaStats/StatsBase.jl)
 
-[Distributions](https://github.com/JuliaStats/Distributions.jl)
+- [Distributions](https://github.com/JuliaStats/Distributions.jl)
 
-[HypothesisTests](https://github.com/JuliaStats/HypothesisTests.jl)
+- [HypothesisTests](https://github.com/JuliaStats/HypothesisTests.jl)
 
-[GLM](https://github.com/JuliaStats/GLM.jl)
+- [GLM](https://github.com/JuliaStats/GLM.jl)
 
 
 
 # 报告
 
-IJulia
+- IJulia
 
 # 经济与金融
 
-MarketTechnicals
+- MarketTechnicals
 
 [QuantEcon](https://github.com/QuantEcon/QuantEcon.jl)，数量经济学
 
-Temporal ，类似R中的ts、xts
+- Temporal ，类似R中的ts、xts
 
-Indicators，股票交易的技术指标，类似R中的ttr
+- Indicators，股票交易的技术指标，类似R中的ttr
 
 # 可视化
 
@@ -54,22 +54,22 @@ Indicators，股票交易的技术指标，类似R中的ttr
 
 # 图像处理
 
-ImageView，显示图片
+- ImageView，显示图片
 
-Image
+- Image
 
 # 调用其他语言
 
-RCall
-JavaCall
-PyCall
+- RCall
+- JavaCall
+- PyCall
 
 
 
 # 数据集
 
-RDatasets
+- RDatasets
 
 # Web开发
 
-Genie
+- Genie
